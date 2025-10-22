@@ -29,7 +29,7 @@ This repository contains a complete lab exercise for reconnaissance, port/servic
 
 - **OpenVAS vulnerability scan**  
 **Purpose:** automated vulnerability detection and risk rating for discovered services.  
-**Notes:** exported full HTML report and saved key findings (Critical/High/Medium) with remediation suggestions.
+**Notes:** exported full report and saved key findings (Critical/High/Medium) with remediation suggestions.
 
 ---
 
